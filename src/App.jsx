@@ -20,7 +20,7 @@ function App() {
   return (
     <>
      <div className='bg-offBlack h-screen flex justify-center items-center '>
-       <div className='bg-darkGrey rounded overflow-visible shadow-lg p-8 mx-4  md:max-w-md w-full'>
+       <div className='bg-darkGrey rounded overflow-visible shadow-lg p-8 mx-4  md:max-w-md w-full sm:max-w-lg lg:max-w-xl'>
           
           <div className="flex flex-col items-center"> 
             <img src={avatar} alt='avatar-img' className='h-20 w-20 rounded-full mb-4' /> 

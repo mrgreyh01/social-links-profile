@@ -19,6 +19,12 @@ export default {
         offBlack: " hsl(0, 0%, 8%)",
         white: "hsl(0, 0%, 100%)"
       },
+      screens: {
+        'sm': '375px',   
+        'md': '768px',  
+        'lg': '1024px',  
+        'xl': '1440px',
+      },
     },
   },
   plugins: [],
