@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/social-links-profile",
+  base: "./social-links-profile",
   plugins: [react()],
 })
 
