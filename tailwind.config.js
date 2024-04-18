@@ -17,14 +17,15 @@ export default {
         grey: "hsl(0, 0%, 20%)",
         darkGrey: " hsl(0, 0%, 12%)",
         offBlack: " hsl(0, 0%, 8%)",
-        white: "hsl(0, 0%, 100%)"
+        white: "hsl(0, 0%, 100%)",
+        offWhite: "hsl(0, 0%, 80%)",
       },
-      screens: {
-        'sm': '375px',   
-        'md': '768px',  
-        'lg': '1024px',  
-        'xl': '1440px',
-      },
+      // screens: {
+      //   'sm': '375px',   
+      //   'md': '768px',  
+      //   'lg': '1024px',  
+      //   'xl': '1440px',
+      // },
     },
   },
   plugins: [],
